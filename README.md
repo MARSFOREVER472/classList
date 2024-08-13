@@ -1,3 +1,3 @@
 # **_classList_**
 
-Agregar o quitar clases CSS con classList.
+Agregar o quitar clases mediante extensión CSS con classList.
