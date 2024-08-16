@@ -4,4 +4,4 @@
 
 - **_La propiedad ```classList``` devuelve los nombres de clase CSS de un elemento._**
 
-- **_También devuelve una  ```DOMTokenList```._**
+- **_También dicha propiedad devuelve una  ```DOMTokenList```._**
